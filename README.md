@@ -1,5 +1,13 @@
 ## Hi there 👋
+My name is Yanchen Xia, a senior at UNCC with a focus in AI, Robotics, and Gaming.
 
+## 🚀 Skills
+* Programming language: C++, Python, Java
+* Language: Chinese and two dialects
+
+## 🌱 Currently Learning
+* AI: Currently learning - Neural Networks, Deep Learning, TensorFlow, PyTorch
+* Gaming: Gamemaker, Lua, Unreal Engine
 <!--
 **YanchenXia/YanchenXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
