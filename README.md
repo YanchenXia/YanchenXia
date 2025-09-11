@@ -3,7 +3,7 @@ My name is Yanchen Xia, a senior at UNCC with a focus in AI, Robotics, and Gamin
 
 ## 🚀 Skills
 * Programming language: C++, Python, Java
-* Language: Chinese and two dialects
+* Language: Chinese and two dialect
 
 ## 🌱 Currently Learning
 * AI: Currently learning - Neural Networks, Deep Learning, TensorFlow, PyTorch
